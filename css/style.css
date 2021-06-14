@@ -1,0 +1,12 @@
+body {
+  background-color: #DAF7F6;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  line-height: 16px;
+}
+
+h1, h2, h3{
+  color: #F16059;
+  font-family: 'Montserrat';
+  text-transform: uppercase;
+}
