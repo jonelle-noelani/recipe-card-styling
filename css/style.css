@@ -30,3 +30,15 @@ main {
   width: 1000px;
   margin: 0 60px;
 }
+
+.card {
+  background-color: aliceblue;
+  margin: 10px 0;
+}
+
+/***images***/
+.image {
+  float: left;
+  width: 500px;
+  height: 550px;
+}
