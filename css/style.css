@@ -32,8 +32,17 @@ main {
 }
 
 .card {
+  margin: 20px 0;
+  overflow: auto;
+}
+
+.recipe {
   background-color: aliceblue;
-  margin: 10px 0;
+  box-sizing: border-box;
+  float: left;
+  padding: 20px;
+  width: 500px;
+  height: 550px;
 }
 
 /***images***/
