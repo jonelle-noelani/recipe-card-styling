@@ -51,3 +51,9 @@ main {
   width: 500px;
   height: 550px;
 }
+
+#cookies .image {
+  /* background-color: greenyellow; */
+  background-image: url("../img/gluten-free-sugar-cookies.jpg");
+  background-size: cover;
+}
