@@ -47,20 +47,21 @@ main {
 
 /***images***/
 .image {
+  background-color: greenyellow;
+  background-size: cover;
   float: left;
   width: 500px;
   height: 550px;
 }
 
 #cookies .image {
-  background-color: greenyellow;
   background-image: url("../img/gluten-free-sugar-cookies.jpg");
-  background-size: cover;
 }
 
 #pesto .image {
-  background-color: greenyellow;
   background-image: url("../img/nut-free-pesto.jpg");
-  background-size: cover;
 }
 
+#salad .image {
+  background-image: url("../img/watermelon-salad.jpg");
+}
