@@ -53,7 +53,14 @@ main {
 }
 
 #cookies .image {
-  /* background-color: greenyellow; */
+  background-color: greenyellow;
   background-image: url("../img/gluten-free-sugar-cookies.jpg");
   background-size: cover;
 }
+
+#pesto .image {
+  background-color: greenyellow;
+  background-image: url("../img/nut-free-pesto.jpg");
+  background-size: cover;
+}
+
