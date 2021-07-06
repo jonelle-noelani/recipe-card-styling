@@ -59,6 +59,11 @@ main {
   width: 33.3333%;
 }
 
+.time .cook {
+  border-left: 1px solid #3B3B3B;
+  border-right: 1px solid #3B3B3B;
+}
+
 /***images***/
 .image {
   background-color: greenyellow;
