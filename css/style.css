@@ -11,6 +11,10 @@ h1, h2, h3{
   text-transform: uppercase;
 }
 
+h2 {
+  font-size: 24px;
+}
+
 /***header***/
 header {
   background-color: #FFFFFF;
@@ -92,4 +96,6 @@ main {
 .time img {
   width: 15px;
   height: auto;
+  margin-right: 5px;
+  vertical-align: middle;
 }
