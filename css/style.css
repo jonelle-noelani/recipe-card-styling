@@ -64,6 +64,10 @@ main {
   border-right: 1px solid #3B3B3B;
 }
 
+.time-details {
+  display: inline-block;
+}
+
 /***images***/
 .image {
   background-color: greenyellow;
