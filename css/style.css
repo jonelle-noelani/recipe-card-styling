@@ -45,6 +45,20 @@ main {
   height: 550px;
 }
 
+.time {
+  border: 1px solid #3B3B3B;
+  margin-bottom: 1px;
+  overflow: auto;
+}
+
+.prep, .cook, .total{
+  box-sizing: border-box;
+  float: left;
+  padding-left: 6px;
+  text-transform: uppercase;
+  width: 33.3333%;
+}
+
 /***images***/
 .image {
   background-color: greenyellow;
