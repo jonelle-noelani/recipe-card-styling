@@ -84,3 +84,8 @@ main {
 #salad .image {
   background-image: url("../img/watermelon-salad.jpg");
 }
+
+.time img {
+  width: 15px;
+  height: auto;
+}
