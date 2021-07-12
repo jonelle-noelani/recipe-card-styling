@@ -105,6 +105,11 @@ main {
   width: 240px;
 }
 
+.directions ol {
+  padding-left: 20px;
+  line-height: 20px;
+}
+
 /***images***/
 .image {
   background-color: greenyellow;
