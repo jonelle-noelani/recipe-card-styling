@@ -17,6 +17,14 @@ h2 {
   margin-bottom: 30px;
 }
 
+h3 {
+  border-top: 1px solid #3B3B3B;
+  border-bottom: 1px solid #3B3B3B;
+  padding: 5px;
+  /* font-size: 12px; */
+  /* font-weight: bold; */
+}
+
 /***header***/
 header {
   background-color: #FFFFFF;
