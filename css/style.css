@@ -74,6 +74,21 @@ main {
   display: inline-block;
 }
 
+.columns {
+  overflow: auto;
+}
+
+.ingredients {
+  float: left;
+  width: 205px;
+  margin-right: 10px;
+}
+
+.directions {
+  float: left;
+  width: 240px;
+}
+
 /***images***/
 .image {
   background-color: greenyellow;
