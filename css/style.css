@@ -59,6 +59,7 @@ main {
   height: 550px;
 }
 
+/**time blocks**/
 .time {
   border: 1px solid #3B3B3B;
   margin-bottom: 1px;
@@ -82,6 +83,7 @@ main {
   display: inline-block;
 }
 
+/**double columns**/
 .columns {
   overflow: auto;
 }
@@ -90,6 +92,12 @@ main {
   float: left;
   width: 205px;
   margin-right: 10px;
+}
+
+.ingredients ul {
+  padding-left: 20px;
+  line-height: 20px;
+  list-style-type: square;
 }
 
 .directions {
